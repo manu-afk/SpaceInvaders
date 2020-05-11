@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>tourelle.png</file>
+        <file>alien2.png</file>
+        <file>Laser1.wav</file>
+        <file>alien1.png</file>
+        <file>alien3.png</file>
+        <file>vaisseau.png</file>
+        <file>spriteSheetInvaders.png</file>
+    </qresource>
+    <qresource prefix="/sons"/>
+    <qresource prefix="/test"/>
+</RCC>
